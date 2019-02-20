@@ -2,7 +2,6 @@ import csv
 import datetime
 import coinmarketcap
 import json
-
 import requests
 
 url= 'http://api.bitcoincharts.com/v1/markets.json'
