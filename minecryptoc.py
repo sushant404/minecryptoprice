@@ -3,6 +3,7 @@ import datetime
 import coinmarketcap
 import json
 import requests
+import numpy
 
 url= 'http://api.bitcoincharts.com/v1/markets.json'
 #url= 'https://api.coinmarketcap.com/v1/ticker/'
